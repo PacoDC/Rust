@@ -3,7 +3,6 @@
     Para las variables numéricas hay un programa aparte
 */
 fn main() {
-
     // Tipos numéricos
     let ngrande: i64 = 3_670_500_200_000;
     let ejemhexa: i32 = 0xffa044;
@@ -30,5 +29,4 @@ fn main() {
     println!("La segunda letra: {}", letra2);
     println!("La letra eñe: {}", letra_espana);
     println!("La letra extraña: {}", gato_corazon);
-
 }
