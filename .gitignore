@@ -1,6 +1,2 @@
-01_Basicos/p0101_holamundo/Cargo.lock
-01_Basicos/p0101_holamundo/target
-01_Basicos/p0102_TiposVariables/target
-01_Basicos/p0102_TiposVariables/Cargo.lock
-01_Basicos/p0103_bucles/Cargo.lock
-01_Basicos/p0103_bucles/target
+01_Basicos/*/Cargo.lock
+01_Basicos/*/target
