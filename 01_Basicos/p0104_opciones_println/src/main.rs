@@ -17,5 +17,6 @@ fn main() {
     println!("9. Imprimir con padding: {:0>5}", 42);
     println!("10. Imprimir con padding y formato: {:0>5.2}", 3.14);
     println!("11. Imprimir con padding y formato: {:0>5.2}", 3.14159);
+    println!("12. Imprimir con ancho: {numero:x>ancho$}", numero=-365, ancho=10);
 
 }
